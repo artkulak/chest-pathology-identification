@@ -1,5 +1,5 @@
 # Chest Patology Identification
-This repository contains Python implementation of the paper "Chest Pathology Identification using Deep Feature Selection with Non-Medical Training" ![Original Paper](https://www.cs.tau.ac.il/~wolf/papers/chest_miccai2015.pdf)
+This repository contains Python implementation of the paper "Chest Pathology Identification using Deep Feature Selection with Non-Medical Training" [Original Paper](https://www.cs.tau.ac.il/~wolf/papers/chest_miccai2015.pdf)
 
 The pipeline of the provided notebook can be visualized on the below image.
 
